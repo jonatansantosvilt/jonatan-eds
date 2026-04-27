@@ -1,8 +1,8 @@
 {
     "mappings": [
-        "/content/jonatan-eds/:/",
-        "/content/jonatan-eds/configuration:/.helix/config.json",
-        "/content/jonatan-eds/metadata:/metadata.json"
+        "/content/eds-jonatan/:/",
+        "/content/eds-jonatan/configuration:/.helix/config.json",
+        "/content/eds-jonatan/metadata:/metadata.json"
     ],
-    "includes": ["/content/jonatan-eds/"]
+    "includes": ["/content/eds-jonatan/"]
 }
